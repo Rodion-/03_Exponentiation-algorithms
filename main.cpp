@@ -246,7 +246,7 @@ int main ( int argc , char** argv )
 	{
     
     
-		#define EXP1 0
+		#define EXP1 1
 		#if EXP1
 		{
 			std::cout<<"--------------EXAMPLE1--------------"<<std::endl;
@@ -257,7 +257,7 @@ int main ( int argc , char** argv )
 		}
 		#endif
 		
-		#define EXP2 0
+		#define EXP2 1
 		#if EXP2
 		{
 			std::cout<<"--------------EXAMPLE2--------------"<<std::endl;
